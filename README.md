@@ -8,13 +8,13 @@
 - [Screenshots](#screenshots)
 
 ## Introduction
-Nativefier is a command-line tool to easily create a desktop app for any web site with minimal fuss. Apps are wrapped by Electron in an OS executable (.app, .exe, etc) usable on Windows, macOS and Linux.
+Nativefier is a command-line tool that effortlessly creates desktop apps for websites, wrapped by Electron in an OS executable (.app, .exe, etc) for use on Windows, macOS, and Linux.
 
-Here, I have created a desktop application to use https://dev.java/ (The destination for Java developers. Hundreds of tutorials, news and videos from the experts, all right here).
+In this project, I've developed a desktop application for [https://dev.java/](https://dev.java/)—the go-to platform for Java developers, offering hundreds of tutorials, news, and videos from experts.
 
 ## How to use
 ### Prerequisites
-Before you begin, ensure you have [Nativefier](https://github.com/nativefier/nativefier) installed on your system. Checkout their repoitory for more information.
+Before you begin, ensure that Nativefier is installed on your system. For more information, check out their [repository](https://github.com/nativefier/nativefier).
 
 ### Build the Desktop App
 Install Nativefier and run 
