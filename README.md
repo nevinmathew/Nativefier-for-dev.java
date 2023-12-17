@@ -15,34 +15,7 @@ Here, I have created a desktop application to use https://dev.java/ (The destina
 
 ## How to use
 ### Prerequisites
-
 Before you begin, ensure you have (Nativefier)[https://github.com/nativefier/nativefier] installed on your system. Checkout their repoitory for more information.
-```bash
-nativefier "https://dev.java/"
-```
-Certainly! Here's the README with a table of contents in Markdown:
-
-markdown
-
-# Nativefier for Dev.Java
-
-**Turn dev.java into a Desktop App for Java Developers**
-
-- [Introduction](#nativefier-for-devjava)
-- [How to Use](#how-to-use)
-  - [Prerequisites](#prerequisites)
-  - [Build the Desktop App](#build-the-desktop-app)
-- [Screenshots](#screenshots)
-
-## Introduction
-
-Nativefier for Dev.Java is a command-line tool that enables you to convert the Dev.Java website into a standalone desktop application. This allows Java developers to access tutorials, news, and videos conveniently from their desktop.
-
-## How to Use
-
-### Prerequisites
-
-Before you begin, ensure you have [Nativefier](https://github.com/nativefier/nativefier) installed on your system.
 
 ### Build the Desktop App
 Install Nativefier and run 
