@@ -5,7 +5,6 @@
 - [How to Use](#how-to-use)
   - [Prerequisites](#prerequisites)
   - [Build the Desktop App](#build-the-desktop-app)
-  - [Run the Desktop App](#run-the-desktop-app)
 - [Screenshots](#screenshots)
 
 ## Introduction
@@ -24,6 +23,7 @@ nativefier "https://dev.java/"
 ```
 
 ***Run the Desktop App***
+
 Once the build process is complete, you'll find the executable file for your operating system (e.g., .app for macOS, .exe for Windows) in the output directory. Run the executable to launch the Dev.Java desktop app.
 
 ## Screenshot
