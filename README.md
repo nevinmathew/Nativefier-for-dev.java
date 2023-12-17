@@ -14,7 +14,7 @@ Here, I have created a desktop application to use https://dev.java/ (The destina
 
 ## How to use
 ### Prerequisites
-Before you begin, ensure you have (Nativefier)[https://github.com/nativefier/nativefier] installed on your system. Checkout their repoitory for more information.
+Before you begin, ensure you have [Nativefier](https://github.com/nativefier/nativefier) installed on your system. Checkout their repoitory for more information.
 
 ### Build the Desktop App
 Install Nativefier and run 
